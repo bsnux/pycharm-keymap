@@ -1,0 +1,7 @@
+<keymap version="1" name="Mac_OS_X_10.5_bsnux" parent="Mac OS X 10.5+">
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="SelectAllOccurrences">
+    <keyboard-shortcut first-keystroke="ctrl meta g" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+</keymap>
