@@ -1,4 +1,4 @@
-# PyCharm cheetshet
+# PyCharm cheatsheet
 
 | Keymap        | Description                |
 | ------------- | ---------------------------|
